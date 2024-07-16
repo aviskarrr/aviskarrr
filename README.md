@@ -10,7 +10,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aviskarrr&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+### My skills:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
 </div>
 
-###
+### My socials:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aviskarpoudel/" target="_blank">

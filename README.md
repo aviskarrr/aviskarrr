@@ -4,7 +4,7 @@ echo "about me:"
 echo "👨‍💻 a computer engineering student passionate about coding and innovation."
 
 echo "🔧 currently working on:"
-echo "  - backend projects using node.js."
+echo "  - web backend."
 echo "  - advancing skills in python programming."
 
 echo "🤖 interests:"

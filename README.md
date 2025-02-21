@@ -1,16 +1,7 @@
 ```bash
 # hi there! i'm av 💻
 echo "about me:"
-echo "👨‍💻 a computer engineering student passionate about coding and innovation."
-
-echo "🔧 currently working on:"
-echo "  - web backend."
-echo "  - advancing skills in python programming."
-
-echo "🤖 interests:"
-echo "  - web backend development and machine learning"
-echo "  - finding efficient solutions to complex problems."
-
+echo "👨‍💻 a computer engineering student."
 echo "🚀 let's collaborate and build something amazing!"
 ```
 
